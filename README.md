@@ -83,7 +83,7 @@ Projeyi çalıştırmak için aşağıdaki adımları izleyin:
 
 ## Yazar
 
-- [Adınız](https://github.com/berkaykalin)
+- [Berkay Kalın](https://github.com/berkaykalin)
 
 Herhangi bir soru veya geri bildirim için benimle iletişime geçmekten çekinmeyin.
 
