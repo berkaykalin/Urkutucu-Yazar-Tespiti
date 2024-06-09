@@ -1,0 +1,1 @@
+# Urkutucu-Yazar-Tespiti
