@@ -82,7 +82,7 @@ Projeyi çalıştırmak için aşağıdaki adımları izleyin:
     ```
 
 ## Yazar
-- [Anonymous3105]((https://github.com/Anonymous3105/Spooky-Author-Identification)) - Projelerinin bazı bölümleri bu projede kullanılmıştır.
+- [Anonymous3105](https://github.com/Anonymous3105/Spooky-Author-Identification) - Projelerinin bazı bölümleri bu projede kullanılmıştır.
 - [Berkay Kalın](https://github.com/berkaykalin)
 
 Herhangi bir soru veya geri bildirim için benimle iletişime geçmekten çekinmeyin.
